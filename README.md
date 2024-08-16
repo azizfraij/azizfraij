@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Software Engineer at [Consult Your Community](https://consultyourcommunity.org/), developing innovative web applications.<br>
-💼 Seeking a Summer 2024 Internship to further explore my passion in tech.<br>
+💼 Seeking new opportunities.<br>
 🤝 Looking to collaborate on AI ventures.<br>
 🌱 Currently learning TypeScript & SCSS, enhancing my Full Stack Development skills.<br>
 💬 Happy to discuss Full Stack Development and AI/ML.<br>

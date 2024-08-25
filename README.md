@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineer at [Consult Your Community](https://consultyourcommunity.org/), developing innovative web applications.<br>
+👨‍💻 Lead Software Engineer at a stealth mode startup<br>
 💼 Seeking new opportunities.<br>
 🤝 Looking to collaborate on AI ventures.<br>
 🌱 Currently learning TypeScript & SCSS, enhancing my Full Stack Development skills.<br>
